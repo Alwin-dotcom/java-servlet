@@ -1,7 +1,4 @@
 <html>
-<head>
-<title>IUBH IPWA01</title>
-</head>
 <body>
 <h1>IUBH IPWA01</h1>
 <p>
